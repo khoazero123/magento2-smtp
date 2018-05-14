@@ -1,0 +1,6 @@
+[submodule "app/code/Mageplaza/Core"]
+	path = app/code/Mageplaza/Core
+	url = https://github.com/mageplaza/module-core.git
+[submodule "app/code/Mageplaza/Smtp"]
+	path = app/code/Mageplaza/Smtp
+	url = https://github.com/mageplaza/magento-2-smtp.git
